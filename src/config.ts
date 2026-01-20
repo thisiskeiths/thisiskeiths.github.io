@@ -8,9 +8,7 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/keithsoh",
   },
   aboutMe:
-    "Exhibition and Experience Producer with a foundation in design and hands-on production, dedicated to turning artistic vision into tangible reality. I guide multifaceted projects from museums and brand activations to public art and immersive installations through their entire lifecycle.
-
-At the core of my work is translating conversations across disciplines, connecting artists, curators, brands, and fabricators to align vision with feasibility. The result is projects where creativity is grounded in reality: buildable, on-schedule, budget-conscious, and visitor-centred.",
+    "Exhibition and Experience Producer with a foundation in design and hands-on production, dedicated to turning artistic vision into tangible reality. I guide multifaceted projects from museums and brand activations to public art and immersive installations through their entire lifecycle. At the core of my work is translating conversations across disciplines, connecting artists, curators, brands, and fabricators to align vision with feasibility. The result is projects where creativity is grounded in reality: buildable, on-schedule, budget-conscious, and visitor-centred.",
   skills: [
     "Exhibition Production", 
     "Project Management",
@@ -38,20 +36,8 @@ At the core of my work is translating conversations across disciplines, connecti
       title: "Producer, Exhibitions and Experiences",
       dateRange: "2022 - Present",
       bullets: [
-        "Produced and project-managed a portfolio of cultural exhibitions, brand activations, and
-public experiences.",
-        "Served as the key liaison between artists, curators, fabricators, and
-brands, translating creative and commercial visions into detailed, buildable plans delivered
-on time, within budget, and to audience-ready standards.",
-        "Selected Museum and Cultural Exhibitions
-- teamLab Future World
-- Skyline Singapore: Stories from Above
-- Goddess: Brave, Bold, Beautiful
-- Sensory Odyssey",
-        "Selected Brand Experiences and Activations:
-- Ethereum: To the Infinite Garden and Beyond
-- Audi: House of Progress
-- House of Suntory (100th Anniversary)",
+        "Produced and project-managed a portfolio of cultural exhibitions, brand activations, and public experiences.",
+        "Served as the key liaison between artists, curators, fabricators, and brands, translating creative and commercial visions into detailed, buildable plans delivered on time, within budget, and to audience-ready standards.",
       ],
     },
     {
@@ -59,24 +45,8 @@ on time, within budget, and to audience-ready standards.",
       title: "Design and Digital Fabrication Consultant / Project Manager",
       dateRange: "2018 - 2022",
       bullets: [
-        "Held dual roles at both companies as the founder’s lead for post-sale execution, managing
-the full project lifecycle from client liaison and design translation through fabrication
-oversight to final installation.",
-        "Served as the central point of contact between clients,
-architects, contractors, and production teams, ensuring projects were delivered on spec, on
-budget, and in line with creative vision.",
-        "Selected Exhibitions and Art Installations:
-- SG Marks the Spot
-- Making Room, Light to Night Festival 2022
-- Floating City, Light to Night Festival 2019
-- FORMICA Fantastica
-- FORMICA and FENIX, Guangzhou Design Week 2019
-- FORMICA, Shanghai Design Week 2019",
-  "Selected Architectural and Interior Projects:
-- JLL CapitaSpring
-- OCBC X
-- Penthouse Movie Room
-- Performance Sports Rehab Clinic",
+        "Held dual roles at both companies as the founder’s lead for post-sale execution, managing the full project lifecycle from client liaison and design translation through fabrication oversight to final installation.",
+        "Served as the central point of contact between clients, architects, contractors, and production teams, ensuring projects were delivered on spec, on budget, and in line with creative vision.",
       ],
     },
   ],
