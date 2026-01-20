@@ -1,91 +1,96 @@
 export const siteConfig = {
   name: "Keith Soh",
-  title: "Senior Software Engineer",
-  description: "Exhibition and Experience Producer",
+  title: "Exhibition and Experience Producer",
+  description: "Bridging Art, Design, and Technology into Immersive Cultural Projects",
   accentColor: "#1d4ed8",
   social: {
     email: "thisiskeith@live.com",
     linkedin: "https://linkedin.com/in/keithsoh",
-    twitter: "",
-    github: "",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
-  skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
+    "Exhibition and Experience Producer with a foundation in design and hands-on production, dedicated to turning artistic vision into tangible reality. I guide multifaceted projects from museums and brand activations to public art and immersive installations through their entire lifecycle.
+
+At the core of my work is translating conversations across disciplines, connecting artists, curators, brands, and fabricators to align vision with feasibility. The result is projects where creativity is grounded in reality: buildable, on-schedule, budget-conscious, and visitor-centred.",
+  skills: [
+    "Exhibition Production", 
+    "Project Management",
+    "Museum Installations",
+    "Public Art",
+    "Immersive Experiences",
+  ],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
-      description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "teamLab Future World",
+      description: "Led the major refresh at ArtScience Museum in 2025, overseeing addition of multiple new large-scale digital artworks across all galleries. Coordinated with artist collective from concept through installation.",
+      link: "https://www.teamlab.art/e/artsciencemuseum/",
+      skills: ["Museum Exhibition", "Digital Art", "Project Management"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
-      description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      name: "Light to Night Festival 2022",
+      description: "Produced 'Making Room' art installation at National Gallery Singapore. Managed fabrication, installation, and coordination with artist Jerome Ng for the festival.",
+      link: "#",
+      skills: ["Public Art", "Festival Installation", "Artist Collaboration"],
     },
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "ArtScience Museum",
+      title: "Producer, Exhibitions and Experiences",
+      dateRange: "2022 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Produced and project-managed a portfolio of cultural exhibitions, brand activations, and
+public experiences.",
+        "Served as the key liaison between artists, curators, fabricators, and
+brands, translating creative and commercial visions into detailed, buildable plans delivered
+on time, within budget, and to audience-ready standards.",
+        "Selected Museum and Cultural Exhibitions
+- teamLab Future World
+- Skyline Singapore: Stories from Above
+- Goddess: Brave, Bold, Beautiful
+- Sensory Odyssey",
+        "Selected Brand Experiences and Activations:
+- Ethereum: To the Infinite Garden and Beyond
+- Audi: House of Progress
+- House of Suntory (100th Anniversary)",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "SUPERSTRUCTURE / PANELOGUE",
+      title: "Design and Digital Fabrication Consultant / Project Manager",
+      dateRange: "2018 - 2022",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Held dual roles at both companies as the founder’s lead for post-sale execution, managing
+the full project lifecycle from client liaison and design translation through fabrication
+oversight to final installation.",
+        "Served as the central point of contact between clients,
+architects, contractors, and production teams, ensuring projects were delivered on spec, on
+budget, and in line with creative vision.",
+        "Selected Exhibitions and Art Installations:
+- SG Marks the Spot
+- Making Room, Light to Night Festival 2022
+- Floating City, Light to Night Festival 2019
+- FORMICA Fantastica
+- FORMICA and FENIX, Guangzhou Design Week 2019
+- FORMICA, Shanghai Design Week 2019",
+  "Selected Architectural and Interior Projects:
+- JLL CapitaSpring
+- OCBC X
+- Penthouse Movie Room
+- Performance Sports Rehab Clinic",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
-      achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
+      school: "Loughborough University",
+      degree: "Bachelor of Arts in 3D Design: New Practice",
+      dateRange: "2018",
       ],
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+      school: "Singapore Polytechnic",
+      degree: "Diploma in Interior Design",
+      dateRange: "2015",
       ],
     },
   ],
